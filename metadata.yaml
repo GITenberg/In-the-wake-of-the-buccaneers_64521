@@ -1,0 +1,38 @@
+_repo: In-the-wake-of-the-buccaneers_64521
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Verrill, A. Hyatt (Alpheus Hyatt)
+    alias: Verrill, Alpheus Hyatt
+    birthdate: 1871
+    deathdate: 1954
+    gutenberg_agent_id: '5100'
+    url: http://www.gutenberg.org/2009/agents/5100
+    wikipedia: https://en.wikipedia.org/wiki/Alpheus_Hyatt_Verrill
+description: Illustrated with drawings and photographs by the author and rare old
+  engravings.
+gutenberg_issued: '2021-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64521'
+  lccn: '23005451'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Buccaneers'
+- !lcsh 'West Indies -- Description and travel'
+- !lcsh 'Caribbean Sea'
+- !lcc 'F2155'
+- GITenberg
+tableOfContents: Among the Caribbees -- St. Thomas and its past -- The buccaneers
+  in the Virgin Isles -- On the way to St. John -- St. John and some discoveries --
+  Anegada and a bit of treasure-trove -- Lonely isles -- St. Kitts and the Gorgeous
+  Isle -- The "dangerous voyage" and the effect of a nagging tongue -- The isle of
+  the Holy Cross -- The Gibraltar of the buccaneers -- The birthplace of the buccaneers
+  -- The Brethren of the Main -- The granddaddy of the dollar -- Where a pirate ruled
+  -- Jamaica and its pirate governor -- The Bridge of the World -- The Castle of Gold
+  -- Panama new and old -- How Morgan kept his promise.
+title: In the wake of the buccaneers
+url: http://www.gutenberg.org/ebooks/64521
