@@ -1,5 +1,8 @@
 _repo: In-the-wake-of-the-buccaneers_64521
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64521-h/images/frontcover.jpg
 creator:
   author:
     agent_name: Verrill, A. Hyatt (Alpheus Hyatt)
@@ -11,6 +14,8 @@ creator:
     wikipedia: https://en.wikipedia.org/wiki/Alpheus_Hyatt_Verrill
 description: Illustrated with drawings and photographs by the author and rare old
   engravings.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64521#In-the-wake-of-the-buccaneers
 gutenberg_issued: '2021-02-11'
 gutenberg_type: Text
 identifiers:
